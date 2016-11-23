@@ -78,6 +78,8 @@
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\HeroController.cs" />
     <Compile Include="Assets\Scripts\MainController.cs" />
+    <Compile Include="Assets\Scripts\ParallaxEnvironment.cs" />
+    <Compile Include="Assets\Scripts\ParallaxSprite.cs" />
     <Compile Include="Assets\Scripts\ScreenFader.cs" />
     <Compile Include="Assets\Scripts\SoundController.cs" />
   </ItemGroup>
