@@ -66,4 +66,8 @@ public class HeroController : MonoBehaviour {
         transform.localScale = new Vector3(scale.x * -1, scale.y, scale.z);
     }
 
+    public float getPixelSize()
+    {
+        return GetComponent<Renderer>().bounds.size.y;
+    }
 }
